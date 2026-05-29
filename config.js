@@ -38,10 +38,10 @@ const CONFIG = {
   wedding: {
     date: "2026-07-26",
     time: "11:30",
-    venue: "그랜드 모먼트",
+    venue: "그랜드 모먼트, 부산",
     hall: "베일홀 B2층",
     address: "부산 남구 대연동 황령대로 401-9",
-    tel: "051-922-2200",
+    tel: "051-922-2200\n\n❤️신부측 피로연 안내❤️\n7월 18일(토) 오전 11:00~오후 14:00 칠보산 예식장",
     mapLinks: {
       kakao: "https://place.map.kakao.com/1277548361",
       naver: "https://naver.me/GoD7OvE4"
@@ -66,10 +66,16 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "한정호", name: "한정호", bank: "국민은행", number: "1111-01-04-199511" },
+      { role: "한정호", name: "한정호", bank: "국민은행", number: "1111-01-04-199511" }, 
+      { role: "한현식", name: "한현식", bank: "신한은행", number: "110-458-222864" },
+      { role: "유정옥", name: "유정옥", bank: "부산은행", number: "050-12-032117-0" }
+
     ],
     bride: [
-      { role: "정이슬", name: "정이슬", bank: "국민은행", number: "909601-01-573030" },
+      { role: "정이슬", name: "정이슬", bank: "국민은행", number: "909601-01-573030" }, 
+      { role: "정도용", name: "정도용", bank: "농협은행", number: "351-0764-0312-53" },
+      { role: "최옥희", name: "최옥희", bank: "농협은행", number: "356-0965-7804-63" }
+      
     ]
   },
 
