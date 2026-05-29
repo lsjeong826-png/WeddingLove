@@ -38,10 +38,10 @@ const CONFIG = {
   wedding: {
     date: "2026-07-26",
     time: "11:30",
-    venue: "그랜드 모먼트, 부산",
-    hall: "베일홀 B2층",
-    address: "부산 남구 대연동 황령대로 401-9",
-    tel: "051-922-2200\n\n❤️신부측 피로연 안내❤️\n7월 18일(토) 오전 11:00~오후 14:00 칠보산 예식장",
+    venue: "베일홀 B2층, 그랜드 모먼트, 부산",
+    hall: "부산 남구 대연동 황령대로 401-9 ☎051-922-2200",
+    address: "❤️신부측 피로연 안내❤️",
+    tel: "26년 07월 18일(토) 오전 11:00 ~ 오후 14:00, 칠보산 예식장",
     mapLinks: {
       kakao: "https://place.map.kakao.com/1277548361",
       naver: "https://naver.me/GoD7OvE4"
