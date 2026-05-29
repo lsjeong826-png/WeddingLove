@@ -45,10 +45,7 @@ const CONFIG = {
     mapLinks: {
       kakao: "https://place.map.kakao.com/1277548361",
       naver: "https://naver.me/GoD7OvE4"
-    } 
-    address: "❤️신부측 피로연 안내❤️",
-    tel: "26년 07월 18일(토) 오전 11:00 ~ 오후 14:00, 칠보산 예식장",
-    
+    }     
   },
 
   // ── 인사말 ──
